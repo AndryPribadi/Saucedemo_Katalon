@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG02-User input invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5e17d2c-c331-475c-947d-fda9a2d29c8f</testCaseGuid>
+</TestCaseEntity>
