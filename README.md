@@ -1,5 +1,7 @@
 TEST SAUCEDEMO DENGAN KATALON
 
+LINK TEST SCENARIO & TEST CASE : https://docs.google.com/spreadsheets/d/1VBBViAtfgdlUtuGSe5e72CcXbZjjvcLJ2PoQYPN6XeY/edit#gid=0
+
 How to run
 
 1. Run Test Suites : Regression Test
